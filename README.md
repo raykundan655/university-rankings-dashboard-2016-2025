@@ -72,7 +72,7 @@ university-rankings-dashboard/
 
 ├── THE World University Rankings 2016-2025.csv Raw dataset
 
-├── uni_ranking.py Python script for data cleaning
+├── UniversityRanking.py Python script for data cleaning
 
 ├── Cleaned_University_Ranking.xlsx Cleaned and processed dataset
 
